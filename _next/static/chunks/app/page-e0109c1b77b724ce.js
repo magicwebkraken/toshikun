@@ -150,7 +150,7 @@
                         className: "hero__social",
                         children: [
                           (0, r.jsx)("a", {
-                            href: "https://x.com/basetoshiko",
+                            href: "https://x.com/basetoshikun",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -713,7 +713,7 @@
                   className: "footer__social",
                   children: [
                     (0, r.jsx)("a", {
-                      href: "https://x.com/basetoshiko",
+                      href: "https://x.com/basetoshikun",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
