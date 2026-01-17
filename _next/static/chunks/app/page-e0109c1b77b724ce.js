@@ -687,7 +687,7 @@
                     className: "footer__logo-text",
                     children: (0, r.jsx)("span", {
                       className: "footer__logo-main",
-                      children: "TOSHIKO",
+                      children: "TOSHIKUN",
                     }),
                   }),
                 }),
